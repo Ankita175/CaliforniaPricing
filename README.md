@@ -1,5 +1,6 @@
 California Housing Price Prediction
 This is a machine learning web application that predicts California housing prices based on user input features. It uses a linear regression model trained on the California Housing dataset, leveraging data preprocessing and scaling for accurate predictions.
+Try the live app here: https://californiapricing.streamlit.app/
 
 Features
 User-friendly web interface built with Streamlit.
